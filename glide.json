@@ -1,0 +1,32 @@
+{
+  "kind": "column",
+  "name": "Webview",
+  "description": "Webview",
+  "author": "Manu.n",
+  "params": [
+    {
+      "name": "title",
+      "displayName": "Title",
+      "type": "string"
+    },
+    {
+      "name": "label",
+      "displayName": "Label",
+      "type": "string"
+    },
+    {
+      "name": "background",
+      "displayName": "Background",
+      "type": "string"
+    },
+    {
+      "name": "data",
+      "displayName": "Data",
+      "type": "string"
+    }
+
+  ],
+  "result": {
+    "type": "uri"
+  }
+}
